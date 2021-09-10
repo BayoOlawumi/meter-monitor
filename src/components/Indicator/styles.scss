@@ -1,0 +1,16 @@
+.indicator-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .rectangle {
+    height: 20px;
+    width: 50px;
+  }
+  .red {
+    background-color: rgb(223, 60, 23);
+  }
+  .green {
+    background-color: rgb(85, 206, 25);
+  }
+}
+    

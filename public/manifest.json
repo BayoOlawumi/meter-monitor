@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Meter monitor",
+  "name": "Smart meter monitoring app",
   "icons": [
     {
       "src": "favicon.ico",

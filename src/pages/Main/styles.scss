@@ -1,0 +1,21 @@
+.main {
+  .main-header {
+    p {
+      font-weight: bold;
+    }
+    .meters {
+      justify-content: center;
+    }
+  }
+}
+
+td,
+th {
+  border: 2px solid rgb(105, 98, 98) !important;
+  padding: 8px;
+}
+
+td > p,
+th > p {
+  text-align: center;
+}

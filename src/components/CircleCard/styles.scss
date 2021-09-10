@@ -1,0 +1,25 @@
+.circle-container {
+  .circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 8px rgb(8, 11, 122);
+    cursor: pointer;
+
+    &:hover {
+      background-color: rgb(75, 79, 200);
+      color: #ffffff;
+    }
+    .details {
+      text-align: center;
+      p {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0;
+      }
+    }
+  }
+}
