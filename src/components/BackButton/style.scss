@@ -1,0 +1,32 @@
+.back-panel {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  .back-link {
+    opacity: 0.3;
+    &:hover {
+      opacity: 0.9;
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -ms-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out;
+    }
+    .back-button {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(75, 79, 200);
+      color: #ffffff;
+      padding: 5px 10px;
+      border-radius: 5px;
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+    }
+  }
+}

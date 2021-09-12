@@ -3,7 +3,7 @@ import React from "react";
 import { useState } from "react";
 import { useEffect } from "react";
 import Indicator from "../Indicator/Indicator";
-import "./styles.scss";
+import "./style.scss";
 
 const CircleCard = ({ name, timestamp, onClick }) => {
   const [isWorking, setIsWorking] = useState(true);

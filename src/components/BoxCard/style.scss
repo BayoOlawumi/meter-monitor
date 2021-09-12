@@ -1,0 +1,25 @@
+.box-container {
+  .box {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+    border: solid 8px rgb(8, 11, 122);
+    cursor: pointer;
+
+    &:hover {
+      background-color: rgb(75, 79, 200);
+      color: #ffffff;
+    }
+    .details {
+      text-align: center;
+      p {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0;
+      }
+    }
+  }
+}
