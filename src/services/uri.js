@@ -1,4 +1,4 @@
-const BASE_URL = "https://sergfuta.herokuapp.com";
+const BASE_URL = "http://api.bloomloadanalysis.ng/";
 
 const METERS_INFO = `${BASE_URL}/meters-info`;
 const LATEST_DATA = `${BASE_URL}/latest-data`;
