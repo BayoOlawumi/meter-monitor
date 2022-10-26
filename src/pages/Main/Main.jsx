@@ -13,7 +13,7 @@ const dummy = [
     name: "Osun",
   },
   {
-    name: "Adamawa",
+    name: "Rivers",
   },
   {
     name: "Lagos",
