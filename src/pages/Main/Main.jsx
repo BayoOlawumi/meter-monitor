@@ -7,19 +7,19 @@ import BoxCard from "../../components/BoxCard/BoxCard";
 
 const dummy = [
   {
-    name: "Ondo",
+    name: "BEDC",
   },
   {
-    name: "Osun",
+    name: "IKEDC",
   },
   {
-    name: "Rivers",
+    name: "EKDC",
   },
   {
-    name: "Lagos",
+    name: "IBEDC",
   },
   {
-    name: "Oyo",
+    name: "PHEDC",
   },
 ];
 
