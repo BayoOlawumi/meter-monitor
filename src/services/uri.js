@@ -1,4 +1,4 @@
-const BASE_URL = "http://api.bloomloadanalysis.ng/";
+const BASE_URL = "http://api.bloomloadanalysis.ng";
 
 const METERS_INFO = `${BASE_URL}/new-meters-info`;
 const LATEST_DATA = `${BASE_URL}/latest-data`;
