@@ -1,6 +1,6 @@
 const BASE_URL = "http://api.bloomloadanalysis.ng/";
 
-const METERS_INFO = `${BASE_URL}/meters-info`;
+const METERS_INFO = `${BASE_URL}/new-meters-info`;
 const LATEST_DATA = `${BASE_URL}/latest-data`;
 
 const API_CONSTANT_MAP = {
